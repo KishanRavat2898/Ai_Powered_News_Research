@@ -1,12 +1,11 @@
-MYBot — AI News Research Tool
 
 
-
+### MYBot — AI News Research Toot
 Ask questions. Get answers. From any news article on the web.
 Powered by Google Gemini + LangChain + FAISS
 
 
-What is it ?
+### What is it ?
 MYBot is an AI-powered news research assistant that lets you drop in any news article URLs and instantly ask questions about them. No more reading through entire articles — just ask, and RockyBot answers with sources.
 Built with:
 
@@ -17,13 +16,13 @@ Built with:
 🌐 Streamlit — clean, interactive web UI
 
 
-🎬 Demo
+### 🎬 Demo
 1. Paste up to 3 news article URLs in the sidebar
 2. Click "Process URLs"
 3. Ask any question about the articles
 4. Get an AI-generated answer with sources
 
-🛠️ Setup & Installation
+### 🛠️ Setup & Installation
 1. Clone the repo
 bashgit clone https://github.com/KishanRavat2898/News_Research_Ai_Powered.git
 cd News_Research_Ai_Powered
@@ -44,7 +43,7 @@ Get your free API key at 👉 Google AI Studio
 5. Run the app
 bashstreamlit run main.py
 
-📦 Requirements
+### 📦 Requirements
 txtstreamlit
 langchain
 langchain-core
