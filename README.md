@@ -1,24 +1,5 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Project Screenshot](img.png)
 
 
 # MYBot — AI News Research Toot
